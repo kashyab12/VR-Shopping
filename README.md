@@ -7,3 +7,6 @@ With the rise of online shopping, going out to purchase things is no longer an a
 - Hong Nguyen
 - Kashyab Ambarani
 - Omer Yurdabakan
+
+### Note
+Development is being continue via PlasticSCM
