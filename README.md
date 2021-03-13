@@ -9,4 +9,4 @@ With the rise of online shopping, going out to purchase things is no longer an a
 - Omer Yurdabakan
 
 ### Note
-Development is being continue via PlasticSCM
+Development is being continued via PlasticSCM
